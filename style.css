@@ -51,7 +51,7 @@ nav a:hover {
 .hero {
   text-align: center;
   padding: 110px 20px;
-  background: linear-gradient(rgba(0,0,0,0.65), rgba(0,0,0,0.85)), url('skin3.jpg') center/cover no-repeat;
+  background: linear-gradient(rgba(0,0,0,0.65), rgba(0,0,0,0.85)), url('images1.jpg') center/cover no-repeat;
 }
 
 .hero h2 {
